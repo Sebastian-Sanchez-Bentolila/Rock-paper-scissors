@@ -13,7 +13,6 @@ This project contains only one branch: master. This game is made in python only
 	- Os
 	- Random
 	- pyinstaller
-- HTML
 
 ### About
 
